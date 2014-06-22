@@ -1,7 +1,7 @@
 var express = require('express'),
     socketIO = require('socket.io'),
     app = express(),
-    port = 3000
+    port = Number(process.env.PORT || 3000)
     ;
 
 /**
