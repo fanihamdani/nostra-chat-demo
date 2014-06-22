@@ -1,0 +1,10 @@
+{
+    "name": "NostraChat",
+    "version": "1.0.0",
+    "description": "Simple Chat Web App",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest"
+    },
+    "author": "nostra-dev"
+}
